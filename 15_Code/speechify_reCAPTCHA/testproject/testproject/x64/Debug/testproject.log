@@ -1,0 +1,22 @@
+﻿Build started 21-11-2021 04:40:04.
+     1>Project "C:\Users\aishw\OneDrive\Desktop\speechify_reCAPTCHA\testproject\testproject\testproject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\testproject.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       Link:
+         All outputs are up-to-date.
+         testproject.vcxproj -> C:\Users\aishw\OneDrive\Desktop\speechify_reCAPTCHA\testproject\x64\Debug\testproject.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\testproject.unsuccessfulbuild".
+         Touching "x64\Debug\testproject.lastbuildstate".
+     1>Done Building Project "C:\Users\aishw\OneDrive\Desktop\speechify_reCAPTCHA\testproject\testproject\testproject.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
