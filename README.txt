@@ -1,4 +1,4 @@
-**************************************speechify reCAPTCHA*****************************************
+***********************speechify reCAPTCHA**************************
 
 This project contains following files and folders-
 --->live_training_files : A folder which contains the files for live training.
